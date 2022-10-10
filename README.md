@@ -1,2 +1,3 @@
 # git-starter2
-first commit
+first commit\
+second commit\
